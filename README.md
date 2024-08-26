@@ -98,3 +98,9 @@ Providing invalid inputs such as `-1` to the number of agents is not allowed. Th
 - start and goal positions that are larger than the size of the grid.
 
 In such scenarios, the UI will close the program and provide an error with reason to the user. 
+
+## Visual Walkthrough
+### 1. Single Unit with Grid from JSON
+![](http://www.https://github.com/s-m-asjad/path_planning/blob/main/images/ezgif-1-1be7e83a76.gif)
+
+### 2. Multiple Unit with Random Grid
