@@ -89,3 +89,13 @@ There are again two cases for this
 - The path finding algorithm runs automatically when the figure is closed.
 ### 6. Viewing the Final Path
 - The final path of each unit is displayed automatically when the algorithm finishes its execution. If a path is not found, the terminal displays the agent's ID and mentions that a path was not found for the respective agent. 
+
+
+#### Invalid Inputs
+Providing invalid inputs such as `-1` to the number of agents is not allowed. The UI is capable of detecting invalid inputs such as 
+- Number of agents less 1.
+- Incorrect or non-existent file names/paths.
+- mismatch in the number of start and goal positions.
+- start and goal positions that are larger than the size of the grid.
+
+In such scenarios, the UI will close the program and provide an error with reason to the user. 
