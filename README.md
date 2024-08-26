@@ -101,6 +101,7 @@ In such scenarios, the UI will close the program and provide an error with reaso
 
 ## Visual Walkthrough
 ### 1. Single Unit with Grid from JSON
-![](http://www.https://github.com/s-m-asjad/path_planning/blob/main/images/ezgif-1-1be7e83a76.gif)
+
+![](images/ezgif-1-1be7e83a76.gif)
 
 ### 2. Multiple Unit with Random Grid
