@@ -9,7 +9,6 @@ git clone https://github.com/s-m-asjad/path_planning.git
 
 ### Clone the open-source libraries
 ```bash
-
 git clone https://github.com/open-source-parsers/jsoncpp.git
 git clone https://github.com/lava/matplotlib-cpp.git matplotlib_cpp
 ```
