@@ -105,3 +105,5 @@ In such scenarios, the UI will close the program and provide an error with reaso
 ![](images/ezgif-1-1be7e83a76.gif)
 
 ### 2. Multiple Unit with Random Grid
+
+![](images/ezgif-1-8822cbacd7.gif)
