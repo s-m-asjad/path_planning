@@ -44,13 +44,16 @@ There are two ways to generate the map.
 - You may choose to give a global path or a local path from the `PathPlanning` file. In the latter case, if you have the json file called `map.json` in the same folder, your terminal should look like 
 <br/>
 <br/>
+
     ```bash
     Enter the Local OR Global Path to the JSON file (Press Enter to Generate a Random Map): map.json
     ```
 #### b) Random Generation
 - Simply press `Enter` when the terminal says
+
 <br/>
 <br/>
+
     ```bash
     Enter the Local OR Global Path to the JSON file (Press Enter to Generate a Random Map):
     ```
