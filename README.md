@@ -42,21 +42,23 @@ There are two ways to generate the map.
 - You will need a json file in the format given by `https://riskylab.com/tilemap`
 - Elevated Terrain/Obstacles (valued 4) must be present in the *world* layer
 - You may choose to give a global path or a local path from the `PathPlanning` file. In the latter case, if you have the json file called `map.json` in the same folder, your terminal should look like 
-<br/>
+
 <br/>
 
-    ```bash
+    
     Enter the Local OR Global Path to the JSON file (Press Enter to Generate a Random Map): map.json
-    ```
+    
+<br/>
+
 #### b) Random Generation
 - Simply press `Enter` when the terminal says
 
-<br/>
+
 <br/>
 
-    ```bash
+    
     Enter the Local OR Global Path to the JSON file (Press Enter to Generate a Random Map):
-    ```
+    
 <br/>
 
 - A random map will be generated and stored in memory. The size will be 64x64. Each cell will have a 30% probability of being an elevated terrain. 
